@@ -1,4 +1,4 @@
-package com.java.ibm.fluid.commons;
+package com.ibm.fluid.commons;
 
 public class Configuration {
 
